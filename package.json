@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://github.com/AnshuOfficialGit/react-app-github-action.git",
+  "homepage": "https://AnshuOfficialGit.github.io/react-app-github-action",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
