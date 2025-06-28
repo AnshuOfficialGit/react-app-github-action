@@ -1,17 +1,18 @@
 {
+   "homepage": "https://AnshuOfficialGit.github.io/react-app-github-action",
   "name": "react-github-action",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+     "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://AnshuOfficialGit.github.io/react-app-github-action",
+ 
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
